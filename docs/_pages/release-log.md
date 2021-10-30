@@ -7,6 +7,10 @@ sidebar:
 toc: false
 ---
 ## 20 February 2020
+SHARED LABELS FEATURE RELEASED
+- This release introduces the ability to maintain a set of shared contacts labels accross all users participating in contacts replication
+
+## 20 February 2020
 VOYZU CONTACTS DIRECTORY RELEASED
 - The ability to manage your Google Workspace External Contacts Directory has been moved to a brand new product - Voyzu Contacts Directory
 
