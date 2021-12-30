@@ -15,7 +15,7 @@ sidebar:
         url: /contacts/
       - title: "Manager users"
         url: /users/
-      - title: "Manager custom fields"
+      - title: "Manage custom fields"
         url: /custom-fields/
       - title: "Manage labels"
         url: /labels/
