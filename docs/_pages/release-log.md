@@ -6,6 +6,14 @@ sidebar:
   nav: "sidebar"
 toc: false
 ---
+## 2 January 2022
+CUSTOM FIELDS FEATURE RELEASED
+- This release introduces the ability to maintain a set of shared custom fields accross all users participating in contacts replication.  In addition an 'Unsubscribed' check box has been added to contacts to assist users who send email campaigns to shared contacts
+
+## 15 October 2021
+SHARED LABELS FEATURE RELEASED
+- This release introduces the ability to maintain a set of shared contacts labels accross all users participating in contacts replication
+
 ## 20 February 2020
 VOYZU CONTACTS DIRECTORY RELEASED
 - The ability to manage your Google Workspace External Contacts Directory has been moved to a brand new product - Voyzu Contacts Directory
