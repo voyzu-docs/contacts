@@ -6,6 +6,15 @@ sidebar:
   nav: "sidebar"
 toc: false
 ---
+
+## 10 January 2023
+NEW GOOGLE SIGN IN PROCESS
+- The Voyzu "sign in with Google" process has been upgraded to use the latest Google sign in process. This sign-in process has a smoother look and feel. All other functionaltiy is un-changed
+
+## 6 January 2023
+VOYZU TECHNICAL FRAMEWORK
+- The Voyzu Technical Framework is the infrastructure that powers Voyzu, it is the 'behind the scenes' platform that Voyzu Applications are built on. The factory that builds the components that consitute Voyzu applications. This framework has been in development for over six years and will power all new Voyzu applications going forward. Although the product development gains will take a little time to realize, this is a significant release and sets a true technical foundation.
+
 ## 2 January 2022
 CUSTOM FIELDS FEATURE RELEASED
 - This release introduces the ability to maintain a set of shared custom fields accross all users participating in contacts replication.  In addition an 'Unsubscribed' check box has been added to contacts to assist users who send email campaigns to shared contacts
